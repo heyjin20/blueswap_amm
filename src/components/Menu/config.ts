@@ -1,6 +1,6 @@
 import { MenuEntry } from '@pancakeswap-libs/uikit'
 
-const farmUrl = 'https://www.goosedefi.com'
+const farmUrl = 'https://app.blueswap.finance'
 
 const config: MenuEntry[] = [
   {
@@ -31,7 +31,7 @@ const config: MenuEntry[] = [
   {
     label: 'Nests',
     icon: 'PoolIcon',
-    href: `${farmUrl}/nests`,
+    href: `${farmUrl}/pools`,
   },
   // {
   //   label: 'Lottery',
